@@ -1,4 +1,13 @@
-### Hi there 👋
+
+### Website/Portfolio: 
+Checkout my personal website and portfolio at [decodecraft.com](decodecraft.com)
+
+### What I am currently doing:
+- A junior studying a BS in Computer Science and a minor in Data Science at Rice University
+- A co-director at Rice Apps 
+- Former Software Engineer Intern at Meta 
+- Former TA for COMP 140 (Computational Thinking), COMP 182 (Algorithmic Thinking), COMP 382 (Reasoning about Algorithms)
+- TAing for COMP 322 (Parallel Programming)
 
 <!--
 **QuangNg14/QuangNg14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
