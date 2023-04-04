@@ -1,6 +1,6 @@
 
 ### Website/Portfolio: 
-Checkout my personal website and portfolio at [decodecraft.com](decodecraft.com)
+Checkout my personal website and portfolio at [decodecraft.com](https://decodecraft.com)
 
 ### What I am currently doing:
 - A junior studying a BS in Computer Science and a minor in Data Science at Rice University
