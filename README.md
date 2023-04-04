@@ -5,8 +5,6 @@ Checkout my personal website and portfolio at [decodecraft.com](decodecraft.com)
 ### What I am currently doing:
 - A junior studying a BS in Computer Science and a minor in Data Science at Rice University
 - A co-director at Rice Apps 
-- Incoming Software Engineer Intern Summer 2023 at NVIDIA 
-- Former Software Engineer Intern Summer 2022 at Meta 
 - Former TA for COMP 140 (Computational Thinking), COMP 182 (Algorithmic Thinking), COMP 382 (Reasoning about Algorithms)
 - TAing for COMP 322 (Parallel Programming)
 
