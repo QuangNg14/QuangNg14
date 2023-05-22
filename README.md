@@ -3,10 +3,12 @@
 Checkout my personal website and portfolio at [decodecraft.com](https://decodecraft.com)
 
 ### What I am currently doing:
-- A junior studying a BS in Computer Science and a minor in Data Science at Rice University
-- A co-director at Rice Apps 
-- Former TA for COMP 140 (Computational Thinking), COMP 182 (Algorithmic Thinking), COMP 382 (Reasoning about Algorithms)
-- TAing for COMP 322 (Parallel Programming)
+- Rising senior studying a BS in Computer Science and a minor in Data Science at Rice University
+- Former SWE intern at Meta Summer 2022 
+- SWE Intern at NVIDIA Summer 2023
+- Co-president at Rice Apps 
+- Former TA for COMP 140 (Computational Thinking), COMP 182 (Algorithmic Thinking), COMP 382 (Reasoning about Algorithms) and COMP 322 (Parallel Programming)
+
 
 <!--
 **QuangNg14/QuangNg14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
