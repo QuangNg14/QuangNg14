@@ -1,9 +1,18 @@
-### Hey, I'm Quang Nguyen - currently a software engineer at Microsoft 👨‍💻
+### Hi, I'm Quang Nguyen
 
-- 🎓 I've just graduated at Rice University with a BS in Computer Science and minor in FCAM (Financial Computation and Modeling) and Data Science
+I'm a software engineer at Microsoft. In my personal projects, I work on distributed data systems and AI evaluation: what happens when a worker retries a payment event, or when a better overall score hides a worse answer?
+
+### Selected projects and writing
+
+- [Payout Replay](https://github.com/QuangNg14/payout-replay): A worker can lose its acknowledgement even after a refund commits. In this Go and PostgreSQL experiment, two workers and a retry recorded one $20 refund. The $2 difference between the synthetic ledger and bank report stayed visible.
+- [Eval Workbench](https://github.com/QuangNg14/eval-workbench): I compare frozen responses case by case instead of calling a model again on every run. Across five synthetic cases, the scripted ballot recorded two candidate wins, one tie, one regression and one abstention. Those are fixture outcomes, not human preference scores.
+- [When a full scan beats an index](https://github.com/QuangNg14/posting-list-lab/blob/main/docs/when-a-full-scan-beats-an-index.md): My C++ search benchmark returned the same ranked hits and scores either way. Rare terms favored the index; for a term present in all 12,000 documents, the full scan was faster.
+
+### A little about me
+
+- 🎓 I earned a BS in Computer Science at Rice University, with minors in Financial Computation and Modeling and Data Science
 - 😄 I was a SWE intern at Meta in 2022 and NVIDIA in 2023
 - 🔭 I’m currently working on helping students in the Vietnamese community to find and achieve their dream internships
-- 🌱 I’m currently learning MLOps and AI engineering 
 - 👯 I’m looking to collaborate on making a chatbot for resources in finding jobs and graduate schools
 - 💬 Ask me about my journey in software engineering and how to find internships
 - 📫 How to reach me: quangnnguyen.1401@gmail.com
