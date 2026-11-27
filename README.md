@@ -1,11 +1,13 @@
 ### Hi, I'm Quang Nguyen
 
-I'm a software engineer at Microsoft. In my personal projects, I work on distributed data systems and AI evaluation: what happens when a worker retries a payment event, or when a better overall score hides a worse answer?
+I'm a software engineer at Microsoft and **Lead Engineer, VPS Atlas**. At Microsoft I build data pipelines on Azure and evaluate AI agents before release. For Atlas I built member onboarding, editable profiles, and membership application review. I also co-founded Pathwise Mentorship.
+
+[Portfolio](https://quangng14.github.io/) · [Engineering experience](https://quangng14.github.io/resume/#timeline) · [About VPS](https://vpsusa.org/about)
 
 ### Selected projects and writing
 
 - [Payout Replay](https://github.com/QuangNg14/payout-replay): A worker can lose its acknowledgement even after a refund commits. In this Go and PostgreSQL experiment, two workers and a retry recorded one $20 refund. The $2 difference between the synthetic ledger and bank report stayed visible.
-- [Eval Workbench](https://github.com/QuangNg14/eval-workbench): I compare frozen responses case by case instead of calling a model again on every run. Across five synthetic cases, the scripted ballot recorded two candidate wins, one tie, one regression and one abstention. Those are fixture outcomes, not human preference scores.
+- [Eval Workbench](https://github.com/QuangNg14/eval-workbench): A blind ballot compares frozen responses case by case. The five-case demo shows a saved vote surviving a new browser session, a regression, and an abstention. The votes are scripted, not human preference scores. [Download captioned walkthrough (2:18, MP4)](https://raw.githubusercontent.com/QuangNg14/eval-workbench/main/docs/browser-ballot.mp4).
 - [When a full scan beats an index](https://github.com/QuangNg14/posting-list-lab/blob/main/docs/when-a-full-scan-beats-an-index.md): My C++ search benchmark returned the same ranked hits and scores either way. Rare terms favored the index; for a term present in all 12,000 documents, the full scan was faster.
 
 ### A little about me
@@ -16,7 +18,6 @@ I'm a software engineer at Microsoft. In my personal projects, I work on distrib
 - 👯 I’m looking to collaborate on making a chatbot for resources in finding jobs and graduate schools
 - 💬 Ask me about my journey in software engineering and how to find internships
 - 📫 How to reach me: quangnnguyen.1401@gmail.com
-- 📝 Portfolio: [decodecraft.com](https://decodecraft.com)
 - ⚡ Fun fact: I love playing League of Legends
 
 ### :zap: GitHub Stats
